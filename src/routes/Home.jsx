@@ -12,6 +12,7 @@ export const Home = () => {
         allowfullscreen>
       </iframe>    
       <h2>PedroTech</h2>
+      <br />
       <h3>
         React Router V6.4+<br />
         New Syntax<br />
