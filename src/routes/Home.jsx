@@ -17,7 +17,9 @@ export const Home = () => {
         New Syntax<br />
         useLoaderData...
       </h3>
-      <p>Tuesday, April 10, 2023</p>      
+      <br />
+      <p>Tuesday, April 10, 2023</p>   
+      <br />   
       <a href="https://reactrouter.com/en/main/routers/create-hash-router" target="_blank">createHashRouter</a>
       <br /><br />
     </div>
